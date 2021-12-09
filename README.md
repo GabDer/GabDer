@@ -1,4 +1,4 @@
-- 👋 Bonjour! Bienvenue sur mon GIT @GabDer
+- 👋 Hi! Welcome on my GitHub Readme
 
 - 🌱 I’m currently learning :
   Data base management
